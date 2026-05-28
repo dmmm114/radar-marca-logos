@@ -7,3 +7,4 @@ Servido via GitHub Pages para uso em comunicações (campanhas email, etc.).
 
 - Logo institucional: `/radar-marca-lockup.png`
 - Logos de marcas: `/logos/{nº_pedido}.{png|jpeg}`
+
